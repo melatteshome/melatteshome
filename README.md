@@ -28,7 +28,7 @@
 I am a very passionate Flutter developer and UX/UI designer with more than 2 and a half years of experience. I am experienced in creating and developing new features of mobile applications and also very much skillful in shipping them to different groups with high satisfaction. I have good experience in developing sleek performance applications with a well-managed state and pixel-perfect UI/UX implementation. 
 
 
-I am currently working  as a part time Flutter Developer at Poshak Consultancy PLC. 
+
 
 
 <p align= "center">
