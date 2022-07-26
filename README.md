@@ -32,6 +32,6 @@ I am currently working  as a part time Flutter Developer at Poshak Consultancy P
 
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Mekonnen070&theme=react&show_icons=true" />
-<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekonnen070&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=melatteshome&theme=react&show_icons=true" />
+<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melatteshome&theme=react&layout=compact" />
 </p>
