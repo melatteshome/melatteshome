@@ -31,7 +31,3 @@ I am a very passionate Flutter developer and UX/UI designer with more than 2 and
 
 
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=melatteshome&theme=react&show_icons=true" />
-<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melatteshome&theme=react&layout=compact" />
-</p>
