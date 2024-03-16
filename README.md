@@ -2,7 +2,9 @@
  Hi there 👋
  I am Melat Teshome 
 
-
+I am a junior Data Engineer skilled in data processing, integration and analysis. Proficient in programming
+languages Python and SQL with experience in ETL process and data warehousing. Strong problem-solving
+abilities and a keen eye for detail, dedicated to optimizing data pipelines and ensuring data quality.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:melatteshome9@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/melat-teshome-6029271ba/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/melat.teshome.359/)]
 
