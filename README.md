@@ -1,7 +1,7 @@
 <h2 align="start">Hi 👋, I'm Melat Teshome</h1>
 <h3 align="start">Experienced data engineer skilled in designing, developing, and maintaining scalable data pipelines and systems.Strong expertise in ETL processes, data modeling, and database administration. Passionate about enabling data-driven insights to power informed decision-making.</h3>
 
-<p align="left"> <img src="linkedin.com/in/melat-teshome&label=Profile%20views&color=0e75b6&style=flat" alt="melatteshome" /> </p>
+<p align="left"> <img src="[linkedin.com/in/melat-teshome](https://komarev.com/ghpvc/?username=melatteshome)&label=Profile%20views&color=0e75b6&style=flat" alt="melatteshome" /> </p>
 
 - 💬 Ask me about **Data visualization, Data pipeline , Data warehousing :)**
 
