@@ -11,15 +11,16 @@ data warehousing, orchestration, and analytics-ready datasets.
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/melat-teshome">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://github.com/melatteshome">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://melatteshome.com">
   <img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
+<a href="mailto:mtadesse813@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 
 <br><br>
 
