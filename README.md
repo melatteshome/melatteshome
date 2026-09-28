@@ -140,15 +140,3 @@ data warehousing, orchestration, and analytics-ready datasets.
 - Cloud Data Engineering
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=melatteshome&show_icons=true&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melatteshome&layout=compact&hide_border=true" />
-
-</p>
-
----
