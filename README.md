@@ -1,10 +1,31 @@
-# Hi, I'm Melat 👋
+<div align="center">
 
-I'm a **Data Engineer** with a strong Software Engineering background, focused on building scalable data pipelines, data warehouses, and analytics-ready data models.
-
-I enjoy working across the full data lifecycle — from ingestion and transformation to dimensional modeling, orchestration, and serving clean, reliable data.
+# Melat Teshome
 
 ---
+
+### Data Engineer • Software Engineer • Data Warehousing • Data Modeling
+
+I build end-to-end data systems — from data ingestion and transformation to dimensional modeling,  
+data warehousing, orchestration, and analytics-ready datasets.
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/melatteshome">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://melatteshome.com">
+  <img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<br><br>
+
+---
+
+</div>
 
 ## 👩‍💻 About Me
 
