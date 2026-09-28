@@ -1,82 +1,150 @@
-# Hi, I'm Melat Teshome 👋
+# Hi, I'm Melat 👋
 
-**Data Engineer | Software Engineer**
+I'm a **Data Engineer** with a strong Software Engineering background, focused on building scalable data pipelines, data warehouses, and analytics-ready data models.
 
-I build end-to-end data solutions — from ingestion and transformation to dimensional modeling, data warehousing, and analytics-ready datasets.
+I enjoy working across the full data lifecycle — from ingestion and transformation to dimensional modeling, orchestration, and serving clean, reliable data.
+
+---
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently building **production-style Data Engineering projects**
-- ❄️ Working with **Snowflake & dbt**
-- 🏗️ Interested in **Data Warehousing & Dimensional Modeling**
-- ⚡ Building **Batch & Streaming Data Pipelines**
-- 🎓 Completed the **ALX Data Engineering Program**
-- 🌱 Currently expanding my knowledge of **modern cloud data platforms**
+- 🔭 Currently building end-to-end **Data Engineering projects**
+- ❄️ Working extensively with **Snowflake & dbt**
+- 🏗️ Building **Data Warehouses & Dimensional Models**
+- ⚡ Exploring **Batch & Streaming Data Pipelines**
+- 🎓 Graduate of the **ALX Data Engineering Program**
+- 💡 Strong Software Engineering background
 
-## 🛠️ Core Expertise
+---
 
-**Data Engineering**
+## 🛠️ Tech Stack
 
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+### Languages
 
-**Programming & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Data Engineering
 
-**Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🏥 Healthcare Data Warehouse
 
-Built a healthcare analytical data warehouse using **Snowflake and dbt**, transforming raw healthcare data into analytics-ready dimensional models.
+> End-to-end healthcare data warehouse built using Snowflake and dbt.
 
-`Snowflake` `dbt` `SQL` `Star Schema` `Dimensional Modeling`
+- Designed dimensional models using **Star Schema**
+- Built staging and transformation layers with **dbt**
+- Implemented surrogate keys for dimensions
+- Designed fact tables around clearly defined business grains
+- Transformed raw healthcare data into analytics-ready datasets
+
+**Tech:** `Snowflake` `dbt` `SQL` `Dimensional Modeling`
 
 ---
 
 ### ❄️ Snowflake + dbt SCD Type 2 Data Warehouse
 
-Built an e-commerce data warehouse implementing **Slowly Changing Dimension Type 2** to preserve historical customer and product changes.
+> E-commerce data warehouse designed to preserve historical changes.
 
-`Snowflake` `dbt` `SQL` `SCD Type 2` `Incremental Models`
+- Implemented **SCD Type 2**
+- Built incremental dbt models
+- Designed customer and product dimensions
+- Generated surrogate keys
+- Built fact tables using historical dimension relationships
+- Added dbt data quality tests
+
+**Tech:** `Snowflake` `dbt` `SQL` `SCD2`
+
+[View Project →](https://github.com/melatteshome/dbt-snowflake-scd2-data-modelling)
 
 ---
 
 ### 🏗️ SQL Data Warehouse
 
-Integrated CRM and ERP datasets into an analytical **Star Schema**, with clearly defined fact table grains and surrogate keys.
+> Data warehouse integrating CRM and ERP data into an analytics-ready Star Schema.
 
-`SQL` `Data Warehousing` `Star Schema` `Dimensional Modeling`
+- Integrated multiple source systems
+- Designed fact and dimension tables
+- Defined fact table grain
+- Implemented surrogate keys
+- Built analytics-ready sales datasets
+
+**Tech:** `SQL` `Data Warehousing` `Star Schema`
+
+[View Project →](https://github.com/melatteshome/sql-data-warehouse-project)
 
 ---
 
 ### ⚡ E-commerce Lakehouse
 
-Built an end-to-end batch and streaming pipeline processing historical retail data and real-time clickstream events.
+> End-to-end batch and streaming data engineering pipeline.
 
-`Kafka` `Spark` `Airflow` `HDFS` `Databend` `Docker`
+- Generated historical retail data
+- Streamed clickstream events through **Kafka**
+- Processed data using **Apache Spark**
+- Orchestrated pipelines using **Airflow**
+- Stored data using **HDFS**
+- Loaded transformed datasets into **Databend**
+
+**Tech:** `Kafka` `Spark` `Airflow` `HDFS` `Databend` `Docker`
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Snowflake
+- Production dbt patterns
+- Data pipeline architecture
+- Data quality & observability
+- Distributed data processing
+- Cloud Data Engineering
+
+---
 
 ## 📊 GitHub Stats
 
-![Melat's GitHub stats](https://github-readme-stats.vercel.app/api?username=melatteshome&show_icons=true&hide_border=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melatteshome&layout=compact&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=melatteshome&show_icons=true&hide_border=true" />
 
-## 🌐 Connect With Me
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melatteshome&layout=compact&hide_border=true" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-melatteshome.com-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://melatteshome.com)
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-melatteshome-181717?style=for-the-badge&logo=github)](https://github.com/melatteshome)
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melat%20Teshome-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://melatteshome.com">
+  <img src="https://img.shields.io/badge/Portfolio-melatteshome.com-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/melatteshome">
+  <img src="https://img.shields.io/badge/GitHub-melatteshome-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Melat%20Teshome-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
