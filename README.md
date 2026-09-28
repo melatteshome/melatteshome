@@ -152,21 +152,3 @@ data warehousing, orchestration, and analytics-ready datasets.
 </p>
 
 ---
-
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://melatteshome.com">
-  <img src="https://img.shields.io/badge/Portfolio-melatteshome.com-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://github.com/melatteshome">
-  <img src="https://img.shields.io/badge/GitHub-melatteshome-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Melat%20Teshome-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
