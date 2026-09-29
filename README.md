@@ -80,6 +80,8 @@ data warehousing, orchestration, and analytics-ready datasets.
 - Transformed raw healthcare data into analytics-ready datasets
 
 **Tech:** `Snowflake` `dbt` `SQL` `Dimensional Modeling`
+
+
 [View Project →](https://github.com/melatteshome/healthcare-snowflake-pipeline)
 
 ---
