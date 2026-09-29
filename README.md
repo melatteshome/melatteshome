@@ -11,7 +11,8 @@ data warehousing, orchestration, and analytics-ready datasets.
 
 <br>
 
-<a href="www.linkedin.com/in/melat-teshome/">
+
+<a href="https://www.linkedin.com/in/melat-teshome/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://melatteshome.com">
