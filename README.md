@@ -29,14 +29,14 @@ data warehousing, orchestration, and analytics-ready datasets.
 
 </div>
 
-## 👩‍💻 About Me
+## About Me
 
-- 🔭 Currently building end-to-end **Data Engineering projects**
-- ❄️ Working extensively with **Snowflake & dbt**
-- 🏗️ Building **Data Warehouses & Dimensional Models**
-- ⚡ Exploring **Batch & Streaming Data Pipelines**
-- 🎓 Graduate of the **ALX Data Engineering Program**
-- 💡 Strong Software Engineering background
+- Currently building end-to-end **Data Engineering projects**
+- Working extensively with **Snowflake & dbt**
+- Building **Data Warehouses & Dimensional Models**
+- Exploring **Batch & Streaming Data Pipelines**
+- Graduate of the **ALX Data Engineering Program**
+- Strong Software Engineering background
 
 ---
 
@@ -67,9 +67,9 @@ data warehousing, orchestration, and analytics-ready datasets.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏥 Healthcare Data Warehouse
+###  Healthcare Data Warehouse
 
 > End-to-end healthcare data warehouse built using Snowflake and dbt.
 
@@ -103,7 +103,7 @@ data warehousing, orchestration, and analytics-ready datasets.
 
 ---
 
-### 🏗️ SQL Data Warehouse
+### SQL Data Warehouse
 
 > Data warehouse integrating CRM and ERP data into an analytics-ready Star Schema.
 
@@ -119,7 +119,7 @@ data warehousing, orchestration, and analytics-ready datasets.
 
 ---
 
-### ⚡ E-commerce Lakehouse
+### E-commerce Lakehouse
 
 > End-to-end batch and streaming data engineering pipeline.
 
